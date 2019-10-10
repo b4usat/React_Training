@@ -1,0 +1,18 @@
+React Introduction	30
+Settng up react environment	30
+React vs Angular	10
+React Component and rendering	30
+How to communicate b/w Components	15
+JSX - basics (Props, Spread operator..)	15
+Routes	60
+React Form & validations	120
+React State intro	30
+"Redux or Flux
+    1. Reducer
+    2. Actions
+    3. Stores"	180
+	
+React Component Styling	60
+React Context	60
+Webpack Intro ( babel, Plugins, Env variable…)	60
+Building React App and Deploy	60
